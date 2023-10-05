@@ -760,7 +760,7 @@ GameObject:
   - component: {fileID: 1400462692}
   - component: {fileID: 1400462691}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Video player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -774,7 +774,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1400462690}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 9fe836228f3c8114aac93f676242ef8d, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 294caa8947e0e464d967b244db5d115f, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -1107,7 +1107,7 @@ GameObject:
   - component: {fileID: 1936580535}
   - component: {fileID: 1936580538}
   m_Layer: 0
-  m_Name: canldsfjksldf
+  m_Name: Scriptmanger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1125,7 +1125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df4a71cd734d2db478f0e641d4f4e189, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 25
+  delay: 16
   myPanel: {fileID: 1068812599}
   a: {fileID: 1936580538}
 --- !u!4 &1936580537

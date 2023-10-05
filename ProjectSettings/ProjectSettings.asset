@@ -133,7 +133,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.1
+  bundleVersion: 5.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -155,6 +155,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.SSGameStudio.EarthShield
+    Standalone: com.SS-Game-Studio.EarthShield
   buildNumber:
     Bratwurst: 0
     Standalone: 0
@@ -280,7 +281,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 57bae2806a9645949b67e9b67458ed66, type: 3}
+      m_Icon: {fileID: 2800000, guid: 578b154883a5a684f995a280a248798e, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -744,6 +745,7 @@ PlayerSettings:
   platformArchitecture: {}
   scriptingBackend:
     Android: 1
+    Standalone: 0
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
   managedStrippingLevel:
